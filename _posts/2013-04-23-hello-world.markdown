@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: The Original Post
 category: posts
 type: text
 ---
 
-For more about Jekyll view the [documentation](http://jekyllrb.com/docs/home/).
+This is the first post on my new blog. I doubt people will read this but I need to have a first post at some point. So here it is.
+Post number one.
