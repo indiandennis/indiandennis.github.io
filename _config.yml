@@ -12,7 +12,7 @@ baseurl:   # Leave this blank unless you are using a directory other than the ro
 description: ', the blog of'
 email: redsupercar@gmail.com
 twitter: twitter.com/ameyathakur
-icon_url: 
+icon_url: /images
 disqus_shortname: 
 
 # Color Options
