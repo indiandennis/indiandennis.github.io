@@ -64,11 +64,16 @@
      background-color: {{ site.background }};
    }
   /* Header Background */
-   header.site-info, footer.page-foot {
+   header.site-info {
      background-image: {{ site.header_background }};
 	 background-size: {{ site.header_size }};
    }
-   /* Post Background */
+  /* Footer Background */
+   footer.page-foot {
+     background-image: {{ site.footer_background }};
+	 background-size: {{ site.footer_size }};
+   }
+  /* Post Background */
    header.site-fixed nav.pages {
     background-color: {{ site.post_background }};
    }
