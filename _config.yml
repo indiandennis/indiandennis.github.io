@@ -9,7 +9,7 @@ rdiscount:
 # User Options
 name: Ameya Thakur
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'the blog of "
+description: 'the blog of <span class="icon-arrow-big'></span>'
 email: redsupercar@gmail.com
 twitter: ameyathakur
 icon_url: http://indiandennis.github.io/images/logo.jpg
