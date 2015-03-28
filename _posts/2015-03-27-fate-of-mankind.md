@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+category: posts
+type: text
+date: {}
 ---
 
 ## The Fate of Mankind
