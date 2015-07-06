@@ -10,7 +10,7 @@ rdiscount:
 name: Ameya Thakur
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
 description: 'The Blog'
-email: redsupercar@gmail.com
+email: blog@ameyathakur.me
 twitter: ameyathakur
 icon_url: http://indiandennis.github.io/images/logo.jpg
 disqus_shortname: 
