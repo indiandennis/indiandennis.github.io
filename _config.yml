@@ -1,5 +1,5 @@
 # Jekyll Specific Stuff
-markdown: rdiscount
+
 pygments: true
 permalink: /posts/:title
 paginate: 10 # the number of post per page
