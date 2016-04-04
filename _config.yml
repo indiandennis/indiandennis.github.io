@@ -30,8 +30,8 @@ footer_size: 'cover'
 header_text_color: '#dfe6ec'
 header_accent_color: '#ffffff'
 header_title_color: '#ffffff'
-header_subtle_color: '#597790'
-header_subtle_border: '#597790'
+header_subtle_color: '#338EDC'
+header_subtle_border: '#338EDC'
 background: '#fcfcfc'
 post_background:
 
